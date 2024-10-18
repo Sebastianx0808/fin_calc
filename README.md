@@ -1,3 +1,5 @@
+View this application by visiting this site : https://wealth-wizard.streamlit.app/
+
 
 
 💰 All-in-One Financial Calculators 💼
@@ -93,7 +95,6 @@ streamlit run fin_calc.py
 Open in Your Browser:
 The app will automatically open at http://localhost:8501.
 
-📷 Screenshots
 
 🤝 Contributing
 We welcome contributions! If you'd like to add features, fix bugs, or enhance the user experience, feel free to fork the repository and create a pull request.
